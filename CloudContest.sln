@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASpiralwalk", "ASpiralwalk\ASpiralwalk.csproj", "{F799F19A-F290-48B1-8094-7B568B1EBF47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argus", "Argus\Argus.csproj", "{F4716D42-4B03-48D2-8711-1320B869750E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedASCIICubes", "AdvancedASCIICubes\AdvancedASCIICubes.csproj", "{171C6EDB-EBEE-47F5-B747-40F5688CEA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormHoles", "WormHoles\WormHoles.csproj", "{DFE30384-B0C6-4514-AED1-C5E7CC995739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLayout", "FlowLayout\FlowLayout.csproj", "{26662C47-A4F6-415A-BA71-44B9FD12D2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowTreats", "CowTreats\CowTreats.csproj", "{75C1FE8F-C742-4434-9F20-D4774BB5D050}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171C6EDB-EBEE-47F5-B747-40F5688CEA1E}.Debug|x86.ActiveCfg = Debug|x86
+		{171C6EDB-EBEE-47F5-B747-40F5688CEA1E}.Debug|x86.Build.0 = Debug|x86
+		{171C6EDB-EBEE-47F5-B747-40F5688CEA1E}.Release|x86.ActiveCfg = Release|x86
+		{171C6EDB-EBEE-47F5-B747-40F5688CEA1E}.Release|x86.Build.0 = Release|x86
+		{26662C47-A4F6-415A-BA71-44B9FD12D2D2}.Debug|x86.ActiveCfg = Debug|x86
+		{26662C47-A4F6-415A-BA71-44B9FD12D2D2}.Debug|x86.Build.0 = Debug|x86
+		{26662C47-A4F6-415A-BA71-44B9FD12D2D2}.Release|x86.ActiveCfg = Release|x86
+		{26662C47-A4F6-415A-BA71-44B9FD12D2D2}.Release|x86.Build.0 = Release|x86
+		{75C1FE8F-C742-4434-9F20-D4774BB5D050}.Debug|x86.ActiveCfg = Debug|x86
+		{75C1FE8F-C742-4434-9F20-D4774BB5D050}.Debug|x86.Build.0 = Debug|x86
+		{75C1FE8F-C742-4434-9F20-D4774BB5D050}.Release|x86.ActiveCfg = Release|x86
+		{75C1FE8F-C742-4434-9F20-D4774BB5D050}.Release|x86.Build.0 = Release|x86
+		{DFE30384-B0C6-4514-AED1-C5E7CC995739}.Debug|x86.ActiveCfg = Debug|x86
+		{DFE30384-B0C6-4514-AED1-C5E7CC995739}.Debug|x86.Build.0 = Debug|x86
+		{DFE30384-B0C6-4514-AED1-C5E7CC995739}.Release|x86.ActiveCfg = Release|x86
+		{DFE30384-B0C6-4514-AED1-C5E7CC995739}.Release|x86.Build.0 = Release|x86
+		{F4716D42-4B03-48D2-8711-1320B869750E}.Debug|x86.ActiveCfg = Debug|x86
+		{F4716D42-4B03-48D2-8711-1320B869750E}.Debug|x86.Build.0 = Debug|x86
+		{F4716D42-4B03-48D2-8711-1320B869750E}.Release|x86.ActiveCfg = Release|x86
+		{F4716D42-4B03-48D2-8711-1320B869750E}.Release|x86.Build.0 = Release|x86
+		{F799F19A-F290-48B1-8094-7B568B1EBF47}.Debug|x86.ActiveCfg = Debug|x86
+		{F799F19A-F290-48B1-8094-7B568B1EBF47}.Debug|x86.Build.0 = Debug|x86
+		{F799F19A-F290-48B1-8094-7B568B1EBF47}.Release|x86.ActiveCfg = Release|x86
+		{F799F19A-F290-48B1-8094-7B568B1EBF47}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
