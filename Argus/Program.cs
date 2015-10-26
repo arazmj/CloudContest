@@ -15,9 +15,7 @@ namespace Argus
 		{
 			return b == 0 ? a : GCD(b, a % b);
 		}
-
-
-
+			
 		public class Query {
 			public int Q { get; set; }
 			public int P { get; set; }
@@ -26,9 +24,6 @@ namespace Argus
 		public static void Main (string[] args)
 		{
 			List<Query> list = new List<Query>();
-//			list.Add (new Query () { Q = 2004, P = 200});
-//			list.Add (new Query () { Q = 2005, P = 300});
-//			int k = 10;
 
 			string s;
 			string[] sa;
@@ -47,24 +42,19 @@ namespace Argus
 
 			int gcd = GCD (list.Select (p => p.P).ToArray ());
 
-//			int i = 1;
 			for (int time = gcd; generated.Count < k; time += gcd) {
 				foreach (Query q in list) {
 					if (time % q.P == 0)
 						generated.Add (new Query () { Q = q.Q, P = q.P, T = time });
 				}
-//				i++;
 			}
-
 
 			var sorted = generated
 				.OrderBy (p => p.T)
 				.ThenBy(q => q.Q)
 				.Take(k);
 
-
 			foreach (Query q in sorted) {
-//				Console.WriteLine (q.Q + " " + q.P + " " + q.T);
 				Console.WriteLine (q.Q);
 			}
 		}

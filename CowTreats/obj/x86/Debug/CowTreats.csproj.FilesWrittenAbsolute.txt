@@ -1,0 +1,5 @@
+/Users/arazm/Projects/CloudContest/CowTreats/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/arazm/Projects/CloudContest/CowTreats/bin/Debug/CowTreats.exe.mdb
+/Users/arazm/Projects/CloudContest/CowTreats/bin/Debug/CowTreats.exe
+/Users/arazm/Projects/CloudContest/CowTreats/obj/x86/Debug/CowTreats.exe
+/Users/arazm/Projects/CloudContest/CowTreats/obj/x86/Debug/CowTreats.exe.mdb

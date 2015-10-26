@@ -28,7 +28,6 @@ namespace FlowLayout
 					rects.Add (new Rect () { Width = a, Hieght = b });
 				}
 
-
 				var win = new List<List<Rect>> ();
 
 				int row = 0;
@@ -43,13 +42,6 @@ namespace FlowLayout
 
 				}
 
-//				foreach (var l in win) {
-//					foreach (var r in l) {
-//						Console.Write (r.Width + ":" + r.Hieght + " ");
-//					}
-//					Console.WriteLine ();
-//				}
-//
 				int width = win.Select (list => list.Select (r => r.Width).Sum ()).Max ();
 				int height = win.Select (list => list.Select (r => r.Hieght).Max ()).Sum ();
 				Console.WriteLine (width + " x " + height);

@@ -1,0 +1,5 @@
+/Users/arazm/Projects/CloudContest/WormHoles/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/arazm/Projects/CloudContest/WormHoles/bin/Debug/WormHoles.exe.mdb
+/Users/arazm/Projects/CloudContest/WormHoles/bin/Debug/WormHoles.exe
+/Users/arazm/Projects/CloudContest/WormHoles/obj/x86/Debug/WormHoles.exe
+/Users/arazm/Projects/CloudContest/WormHoles/obj/x86/Debug/WormHoles.exe.mdb

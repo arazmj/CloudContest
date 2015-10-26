@@ -30,7 +30,7 @@ namespace CowTreats
 
 		public static void Main (string[] args)
 		{
-			int w = 4, h = 3;
+//			int w = 4, h = 3;
 			int[,] f = {
 				{ 5, 7, 4, 1 },
 				{ 9, 99, 2, 6 },

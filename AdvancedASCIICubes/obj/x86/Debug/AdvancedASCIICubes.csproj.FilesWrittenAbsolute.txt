@@ -1,0 +1,5 @@
+/Users/arazm/Projects/CloudContest/AdvancedASCIICubes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/arazm/Projects/CloudContest/AdvancedASCIICubes/bin/Debug/AdvancedASCIICubes.exe.mdb
+/Users/arazm/Projects/CloudContest/AdvancedASCIICubes/bin/Debug/AdvancedASCIICubes.exe
+/Users/arazm/Projects/CloudContest/AdvancedASCIICubes/obj/x86/Debug/AdvancedASCIICubes.exe
+/Users/arazm/Projects/CloudContest/AdvancedASCIICubes/obj/x86/Debug/AdvancedASCIICubes.exe.mdb
